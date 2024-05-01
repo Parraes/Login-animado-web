@@ -3,6 +3,6 @@ Creación de un login en HTML, CSS y JavaScript para crear un diseño de página
 
 
 # Muestra del login
-
+Captura del login:
 ![image](https://github.com/Parraes/Login-animado-web/assets/116099928/13eca0ed-aeb2-4da8-9f43-eecf3a803b19)
 
